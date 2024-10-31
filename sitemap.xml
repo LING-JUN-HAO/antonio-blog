@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://ling-jun-hao.github.io/Blog/hexo-github-3/</loc>
+    <loc>https://ling-jun-hao.github.io/Blog/hexo-github-2/</loc>
     
     <lastmod>2024-05-31</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://ling-jun-hao.github.io/Blog/hexo-github-2/</loc>
+    <loc>https://ling-jun-hao.github.io/Blog/hexo-github-3/</loc>
     
     <lastmod>2024-05-31</lastmod>
     
@@ -74,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://ling-jun-hao.github.io/Blog/JS-2/</loc>
-    
-    <lastmod>2024-05-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ling-jun-hao.github.io/Blog/JS-1/</loc>
     
     <lastmod>2024-05-31</lastmod>
@@ -101,6 +92,15 @@
   </url>
   
   <url>
+    <loc>https://ling-jun-hao.github.io/Blog/JS-2/</loc>
+    
+    <lastmod>2024-05-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ling-jun-hao.github.io/Blog/JS-4/</loc>
     
     <lastmod>2024-05-31</lastmod>
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://ling-jun-hao.github.io/Blog/JS-6/</loc>
+    <loc>https://ling-jun-hao.github.io/Blog/React-1/</loc>
     
     <lastmod>2024-05-31</lastmod>
     
@@ -120,6 +120,15 @@
   
   <url>
     <loc>https://ling-jun-hao.github.io/Blog/React-2/</loc>
+    
+    <lastmod>2024-05-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ling-jun-hao.github.io/Blog/JS-6/</loc>
     
     <lastmod>2024-05-31</lastmod>
     
@@ -156,15 +165,6 @@
   
   <url>
     <loc>https://ling-jun-hao.github.io/Blog/JS-5/</loc>
-    
-    <lastmod>2024-05-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ling-jun-hao.github.io/Blog/React-1/</loc>
     
     <lastmod>2024-05-31</lastmod>
     
@@ -253,7 +253,7 @@
   </url>
   
   <url>
-    <loc>https://ling-jun-hao.github.io/Blog/tags/Promise/</loc>
+    <loc>https://ling-jun-hao.github.io/Blog/tags/Pure-Function/</loc>
     <lastmod>2024-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -261,6 +261,13 @@
   
   <url>
     <loc>https://ling-jun-hao.github.io/Blog/tags/JSX/</loc>
+    <lastmod>2024-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ling-jun-hao.github.io/Blog/tags/Promise/</loc>
     <lastmod>2024-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -323,20 +330,6 @@
   </url>
   
   <url>
-    <loc>https://ling-jun-hao.github.io/Blog/tags/flex/</loc>
-    <lastmod>2024-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ling-jun-hao.github.io/Blog/tags/flex-%E9%A0%90%E8%A8%AD%E5%B1%AC%E6%80%A7/</loc>
-    <lastmod>2024-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ling-jun-hao.github.io/Blog/tags/var/</loc>
     <lastmod>2024-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -352,27 +345,6 @@
   
   <url>
     <loc>https://ling-jun-hao.github.io/Blog/tags/const/</loc>
-    <lastmod>2024-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ling-jun-hao.github.io/Blog/tags/DDL/</loc>
-    <lastmod>2024-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ling-jun-hao.github.io/Blog/tags/DML/</loc>
-    <lastmod>2024-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ling-jun-hao.github.io/Blog/tags/PostgreSQL/</loc>
     <lastmod>2024-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -400,6 +372,20 @@
   </url>
   
   <url>
+    <loc>https://ling-jun-hao.github.io/Blog/tags/flex/</loc>
+    <lastmod>2024-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ling-jun-hao.github.io/Blog/tags/flex-%E9%A0%90%E8%A8%AD%E5%B1%AC%E6%80%A7/</loc>
+    <lastmod>2024-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ling-jun-hao.github.io/Blog/tags/Pass-by-reference/</loc>
     <lastmod>2024-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -421,7 +407,21 @@
   </url>
   
   <url>
-    <loc>https://ling-jun-hao.github.io/Blog/tags/Pure-Function/</loc>
+    <loc>https://ling-jun-hao.github.io/Blog/tags/DDL/</loc>
+    <lastmod>2024-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ling-jun-hao.github.io/Blog/tags/DML/</loc>
+    <lastmod>2024-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ling-jun-hao.github.io/Blog/tags/PostgreSQL/</loc>
     <lastmod>2024-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -458,6 +458,13 @@
   </url>
   
   <url>
+    <loc>https://ling-jun-hao.github.io/Blog/categories/%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ling-jun-hao.github.io/Blog/categories/css/</loc>
     <lastmod>2024-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -466,13 +473,6 @@
   
   <url>
     <loc>https://ling-jun-hao.github.io/Blog/categories/database/</loc>
-    <lastmod>2024-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ling-jun-hao.github.io/Blog/categories/%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2024-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
