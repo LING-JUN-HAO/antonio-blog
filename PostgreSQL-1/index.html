@@ -40,7 +40,7 @@
 <meta property="og:image" content="https://res.cloudinary.com/dseg0uwc9/image/upload/v1730362541/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%B0%88%E7%94%A8/%E5%89%8D%E7%AB%AF%E5%8B%87%E5%A3%AB%E5%A4%A7%E9%97%96%E5%85%AD%E8%A7%92%E5%BE%8C%E7%AB%AF%E9%AB%94%E9%A9%97%E7%87%9F/%E5%89%8D%E7%AB%AF%E5%8B%87%E5%A3%AB%E5%A4%A7%E9%97%96%E5%85%AD%E8%A7%92%E5%BE%8C%E7%AB%AF%E9%AB%94%E9%A9%97%E7%87%9F_ofqtre.png">
 <meta property="og:image" content="https://res.cloudinary.com/dseg0uwc9/image/upload/v1730303549/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%B0%88%E7%94%A8/%E5%89%8D%E7%AB%AF%E5%8B%87%E5%A3%AB%E5%A4%A7%E9%97%96%E5%85%AD%E8%A7%92%E5%BE%8C%E7%AB%AF%E9%AB%94%E9%A9%97%E7%87%9F/%E5%89%8D%E5%BE%8C%E7%AB%AF%E6%A5%B5%E7%B0%A1%E6%98%93%E6%9E%B6%E6%A7%8B%E5%9C%96_dqigqz.png">
 <meta property="article:published_time" content="2024-10-30T14:43:49.000Z">
-<meta property="article:modified_time" content="2024-10-31T08:16:25.401Z">
+<meta property="article:modified_time" content="2024-10-31T08:20:05.252Z">
 <meta property="article:author" content="LING,JUN HAO">
 <meta property="article:tag" content="六角學院">
 <meta property="article:tag" content="DDL">
@@ -246,7 +246,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新於</span>
-                <time title="修改時間：2024-10-31 16:16:25" itemprop="dateModified" datetime="2024-10-31T16:16:25+08:00">2024-10-31</time>
+                <time title="修改時間：2024-10-31 16:20:05" itemprop="dateModified" datetime="2024-10-31T16:20:05+08:00">2024-10-31</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -391,14 +391,14 @@
 </blockquote>
 <hr>
 <h3 id="前置作業"><a href="#前置作業" class="headerlink" title="前置作業"></a>前置作業</h3><p>本次搭配練習的關聯性資料庫使用<code>PostgreSQL</code>，並搭配線上工具<a target="_blank" rel="noopener" href="https://pg-sql.com/">pg-sql</a>，大家可以跟著一起練習，順便加深對於資料庫的操作印象。</p>
-<p>首先我們需要使用<code>DML</code>中的<code>CREATE</code>語法創建練習所需的資料表：</p>
+<p>首先我們需要使用<code>DDL</code>中的<code>CREATE</code>語法創建練習所需的資料表：</p>
 <blockquote>
 <p>VARCHAR 可以想成我們常用的字串，而 INTEGER 則代表整數。針對資料庫操作的時候，必須按照其型別儲存對應的資料，否則會報錯。</p>
 </blockquote>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">CREATE</span> <span class="keyword">TABLE</span> products (</span><br><span class="line">   name <span class="type">VARCHAR</span>(<span class="number">100</span>),         <span class="comment">-- 商品名稱</span></span><br><span class="line">   price <span class="type">INTEGER</span>,            <span class="comment">-- 原價</span></span><br><span class="line">   discount_price <span class="type">INTEGER</span>,    <span class="comment">-- 優惠價</span></span><br><span class="line">   stock <span class="type">INTEGER</span>,            <span class="comment">-- 庫存數量</span></span><br><span class="line">   category <span class="type">VARCHAR</span>(<span class="number">50</span>),      <span class="comment">-- 商品分類</span></span><br><span class="line">   status <span class="type">VARCHAR</span>(<span class="number">20</span>)         <span class="comment">-- 商品狀態</span></span><br><span class="line">);</span><br></pre></td></tr></table></figure>
 
 <hr>
-<p>接著，我們創建完資料表之後，就可以透過 DDL 中的<code>INSERT</code> sql 語法將資料儲存進去，進行後續<code>查詢資料</code>、<code>更新資料</code>及<code>刪除資料</code>的相關操作。</p>
+<p>接著，我們創建完資料表之後，就可以透過 DML 中的<code>INSERT</code> sql 語法將資料儲存進去，進行後續<code>查詢資料</code>、<code>更新資料</code>及<code>刪除資料</code>的相關操作。</p>
 <blockquote>
 <ul>
 <li><strong>INSERT INTO</strong>：我要準備將資料新增進去資料庫囉！</li>
